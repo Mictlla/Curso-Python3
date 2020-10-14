@@ -1,0 +1,6 @@
+
+¿que es un algoritmo?
+
+se define como el proceso ordenado y finito para resolver un problema sin caer en la ambiguedad
+
+	se puede usar un diagrama de flujo para su realizacion
